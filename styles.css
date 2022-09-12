@@ -46,5 +46,6 @@ body {
 }
 .slide.active h3{
   opacity: 1;
-  transition: opacity 3s ease-in ;
+  transition: opacity 0.3s ease-in ;
+  color: blue;
 }
